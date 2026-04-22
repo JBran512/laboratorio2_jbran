@@ -1,5 +1,9 @@
 com\mycompany\laboratorio2jbran\respassword.class
+com\mycompany\laboratorio2jbran\GestorUsuarios.class
+com\mycompany\laboratorio2jbran\Laboratorio2jbran.class
+com\mycompany\laboratorio2jbran\modificarusuario.class
+com\mycompany\laboratorio2jbran\usuario.class
 com\mycompany\laboratorio2jbran\login.class
 com\mycompany\laboratorio2jbran\menu.class
-com\mycompany\laboratorio2jbran\Laboratorio2jbran.class
+com\mycompany\laboratorio2jbran\crearusuario.class
 com\mycompany\laboratorio2jbran\usuarios.class
