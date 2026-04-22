@@ -9,8 +9,9 @@ package com.mycompany.laboratorio2jbran;
  * @author Admin
  */
 public class Laboratorio2jbran {
-
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        java.awt.EventQueue.invokeLater(() -> {
+            new login().setVisible(true);
+        });
     }
 }
